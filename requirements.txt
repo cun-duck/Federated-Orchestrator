@@ -1,0 +1,6 @@
+torch 
+transformers 
+optimum 
+onnx 
+onnxruntime 
+onnxruntime-tools
